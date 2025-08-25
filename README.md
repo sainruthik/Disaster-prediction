@@ -30,7 +30,7 @@
 
 - `streamlit_app.py`  
   This file is for visualization and is hosted on Streamlit. It can be accessed here:  
-  [Disaster and Risk Index Prediction](https://disaster-and-risk-index-prediction.streamlit.app/)
+  [Disaster and Risk Index Prediction](https://sainruthik-disaster-prediction-streamlit-app-pb6nlr.streamlit.app/)
 
 ## Setup Instructions
 
